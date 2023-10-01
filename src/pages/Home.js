@@ -31,7 +31,7 @@ export default function Home() {
           </p>
         </div>
         <div className="column">
-          <p>test</p>
+          <p>tests tests tests lorem ipsum</p>
         </div>
       </section>
     </>
