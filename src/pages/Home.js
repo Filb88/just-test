@@ -31,9 +31,7 @@ export default function Home() {
           </p>
         </div>
         <div className="column">
-          <p>tests tests tests lorem ipsum
-            Still just a test
-          </p>
+          <p>tests tests tests lorem</p>
         </div>
       </section>
     </>
