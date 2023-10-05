@@ -31,7 +31,7 @@ export default function Home() {
           </p>
         </div>
         <div className="column">
-          <p>tests tests tests lorem</p>
+          <p>tests tests tests lorem new test too basic, needs an accent colour and different shades of grey</p>
         </div>
       </section>
     </>
