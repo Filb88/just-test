@@ -31,7 +31,11 @@ export default function Home() {
           </p>
         </div>
         <div className="column">
+
           <p>tests tests tests lorem new test too basic, needs an accent colour and different shades of grey</p>
+
+          <p> What are these errors? I probably better go with bootstrap. tests tests tests lorem new test</p>
+
         </div>
       </section>
     </>
