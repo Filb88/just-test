@@ -30,6 +30,9 @@ export default function Home() {
             Report today.
           </p>
         </div>
+<<<<<<< HEAD
+     
+=======
         <div className="column">
           <p>
             tests tests tests lorem new test too basic, needs an accent colour
@@ -44,6 +47,7 @@ export default function Home() {
 
           <p>tests tests tests lorem new test</p>
         </div>
+>>>>>>> 6cf11f57fdf9c7f4e0877fea1e4a58741f53a26c
       </section>
     </>
   );
