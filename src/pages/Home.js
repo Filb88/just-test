@@ -30,6 +30,35 @@ export default function Home() {
             Report today..
           </p>
         </div>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
+     
+=======
+>>>>>>> a5749cf4d36c82973c4bf255dc389c676585de77
+        <div className="column">
+          <p>
+            tests tests tests lorem new test too basic, needs an accent colour
+            and different shades of grey better be going back to bootstrap with
+            this one
+          </p>
+
+          <p>
+            {" "}
+            What are these errors? I probably better go with bootstrap. tests
+            tests tests lorem new test
+          </p>
+
+          <p>tests tests tests lorem new test</p>
+        </div>
+<<<<<<< HEAD
+=======
+>>>>>>> 6cf11f57fdf9c7f4e0877fea1e4a58741f53a26c
+>>>>>>> a5749cf4d36c82973c4bf255dc389c676585de77
+>>>>>>> 8a3e5bbe9e6b4bb7e9e231312d44d5051b445a75
       </section>
     </>
   );
