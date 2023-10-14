@@ -8,7 +8,7 @@ export default function Contact() {
       <div className="column">
         <p>
           here to put all the contact details, like phone number and email..
-          address.
+          address..
         </p>
       </div>
     </>
