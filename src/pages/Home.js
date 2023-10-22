@@ -46,7 +46,7 @@ export default function Home() {
           <p>
             {" "}
             What are these errors? I probably better go with bootstrap. tests
-            tests tests lorem new test...
+            tests tests lorem new test..
           </p>
 
           <p>tests tests tests lorem new test</p>
