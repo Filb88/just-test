@@ -27,14 +27,9 @@ export default function Home() {
             agents and letting agents can trust us to effectively manage their
             properties and investments. If you're looking for the most reliable
             property inventory company in London, contact the experts at Fort
-            Report today..
+            Report today.
           </p>
         </div>
-
-
-
-
-     
 
         <div className="column">
           <p>
@@ -51,7 +46,6 @@ export default function Home() {
 
           <p>tests tests tests lorem new test</p>
         </div>
-
       </section>
     </>
   );
