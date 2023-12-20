@@ -35,7 +35,7 @@ export default function Home() {
           <p>
             tests tests tests lorem new test too basic, needs an accent colour
             and different shades of grey better be going back to bootstrap with
-            this one.
+            this one..
           </p>
 
           <p>
