@@ -47,7 +47,7 @@ li a {
 .column,
 .column-2 {
   background-color: lightgrey;
-  width: 45%;
+  max-width: 40%;
 }
 
 .selection {
