@@ -31,7 +31,7 @@ export default function Home() {
           </p>
         </div>
 
-        <div className="column">
+        <div className="column-2">
           <p>
             tests tests tests lorem new test too basic, needs an accent colour
             and different shades of grey better be going back to bootstrap with
