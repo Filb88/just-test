@@ -47,8 +47,15 @@ li a {
 .column,
 .column-2 {
   background-color: lightgrey;
-  max-width: 40%;
+  max-width: 45%;
   display: block;
+  border-radius: 7px;
+}
+
+.column > p,
+.column-2 > p {
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 section {
